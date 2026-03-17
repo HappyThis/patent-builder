@@ -4,12 +4,15 @@
 
 ### A Codex skill for drafting patent disclosure documents
 
-[中文](./README.md) | **English**
+[中文](../README.md) | **English**
 
 </div>
 
+![patent-builder skill overview](./skill_image.png)
+
 `patent-builder` is not a standalone app.
 It is a skill that an agent can install and use to turn raw technical ideas into structured patent disclosure drafts, with final output in `Markdown` or `DOCX`.
+
 
 ## What This Skill Does
 

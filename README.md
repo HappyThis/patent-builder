@@ -4,13 +4,16 @@
 
 ### 一个用于生成专利技术交底书的 Codex Skill
 
-**中文** | [English](./README.en.md)
+**中文** | [English](./docs/README.en.md)
 
 </div>
+
+![patent-builder skill overview](./docs/skill_image.png)
 
 `patent-builder` 不是一个独立应用，而是一个可被 agent 安装和调用的 skill。
 
 它的目标很直接：让你把零散的技术想法快速整理成一份结构化的专利技术交底书，并按需要输出为 `Markdown` 或 `DOCX`。
+
 
 ## 这个 skill 能做什么
 
